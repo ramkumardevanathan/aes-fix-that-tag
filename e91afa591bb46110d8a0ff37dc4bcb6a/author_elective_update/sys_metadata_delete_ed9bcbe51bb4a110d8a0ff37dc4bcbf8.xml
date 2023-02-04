@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Fix those tags">eb2b02d81ba02110d8a0ff37dc4bcb33</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-18 13:23:56</sys_created_on>
+        <sys_id>d45b82d81ba02110d8a0ff37dc4bcb0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Fix those tags</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_d45b82d81ba02110d8a0ff37dc4bcb0c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-18 13:23:56</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Global">global</application>
+        <file_path/>
+        <instance_id>45ac8f6edba17b444d2bac44d4961911</instance_id>
+        <instance_name>dev86693</instance_name>
+        <name>sc_cat_item_catalog_d45b82d81ba02110d8a0ff37dc4bcb0c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="DELETE"><sc_cat_item display_value="Fix those tags">eb2b02d81ba02110d8a0ff37dc4bcb33</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-18 13:23:56</sys_created_on><sys_id>d45b82d81ba02110d8a0ff37dc4bcb0c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Fix those tags</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sc_cat_item_catalog_d45b82d81ba02110d8a0ff37dc4bcb0c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-18 13:23:56</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>2104762557</payload_hash>
+        <record_name>Service Catalog.Fix those tags</record_name>
+        <reverted_from/>
+        <source>b8233cfc1ba86110d8a0ff37dc4bcb91</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-01-19 20:15:38</sys_created_on>
+        <sys_id>49233cfc1ba86110d8a0ff37dc4bcb97</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185cbac35a00000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-01-19 20:15:38</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>8d233cfc2ca8611054fbca3eae3ef996</update_guid>
+        <update_guid_history>8d233cfc2ca8611054fbca3eae3ef996:2104762557,585b82d8eea021103c4b89fce8fb970e:859395273</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Fix those tags">01233cfc1ba86110d8a0ff37dc4bcba8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-04 01:32:50</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>ed9bcbe51bb4a110d8a0ff37dc4bcbf8</sys_id>
+        <sys_metadata>d45b82d81ba02110d8a0ff37dc4bcb0c</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="Tag Remediation catalog item" source="x_344376_tag_rem_0">e91afa591bb46110d8a0ff37dc4bcb6a</sys_package>
+        <sys_parent display_value="Fix those tags">119bc7e51bb4a110d8a0ff37dc4bcb17</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Tag Remediation catalog item">e91afa591bb46110d8a0ff37dc4bcb6a</sys_scope>
+        <sys_scope_delete display_value="">3a08cd4d4e9544da90041791f25d2984</sys_scope_delete>
+        <sys_update_name>sys_metadata_delete_ed9bcbe51bb4a110d8a0ff37dc4bcbf8</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_d45b82d81ba02110d8a0ff37dc4bcb0c">49233cfc1ba86110d8a0ff37dc4bcb97</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
