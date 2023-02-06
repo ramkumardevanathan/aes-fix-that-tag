@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Fix those tags">119bc7e51bb4a110d8a0ff37dc4bcb17</sc_cat_item>
+        <sc_cat_item display_value="Fix those tags 2">119bc7e51bb4a110d8a0ff37dc4bcb17</sc_cat_item>
         <sc_category display_value="Standard Changes">b0fdfb01932002009ca87a75e57ffbe9</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>

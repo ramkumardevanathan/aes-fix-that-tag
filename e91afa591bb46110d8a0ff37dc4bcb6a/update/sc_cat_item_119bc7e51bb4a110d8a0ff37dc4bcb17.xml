@@ -28,7 +28,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>Fix those tags</name>
+        <name>Fix those tags 2</name>
         <no_attachment_v2>true</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>true</no_cart_v2>
@@ -64,7 +64,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-02-04 01:32:49</sys_created_on>
         <sys_id>119bc7e51bb4a110d8a0ff37dc4bcb17</sys_id>
-        <sys_name>Fix those tags</sys_name>
+        <sys_name>Fix those tags 2</sys_name>
         <sys_package display_value="Global" source="global">global</sys_package>
         <sys_policy/>
         <sys_scope display_value="Tag Remediation catalog item">e91afa591bb46110d8a0ff37dc4bcb6a</sys_scope>
